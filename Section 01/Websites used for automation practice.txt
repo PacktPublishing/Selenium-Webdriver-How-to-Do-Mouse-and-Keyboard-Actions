@@ -1,0 +1,17 @@
+Jquery Droppable-
+https://jqueryui.com/droppable/
+
+
+Jquery Droppable Sample 2-
+http://www.pureexample.com/jquery-ui/basic-droppable.html
+
+
+HTML 5 Drag and Drop-
+http://the-internet.herokuapp.com/drag_and_drop
+
+
+User Interactions Page-
+https://compendiumdev.co.uk/selenium/gui_user_interactions.html
+
+
+Drag and drop helper.js
